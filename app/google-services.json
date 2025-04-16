@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900482718964",
+    "project_id": "firestore-ahh-example",
+    "storage_bucket": "firestore-ahh-example.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900482718964:android:cbc2818992f4a2b1aed2a1",
+        "android_client_info": {
+          "package_name": "com.pver.firestoresample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANM1ET5FKnN_01cEzqGY97PzF8ZYyrQMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
