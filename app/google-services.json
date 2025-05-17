@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "900482718964",
-    "project_id": "firestore-ahh-example",
-    "storage_bucket": "firestore-ahh-example.firebasestorage.app"
+    "project_number": "867221957538",
+    "project_id": "fbstudiotest",
+    "storage_bucket": "fbstudiotest.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900482718964:android:cbc2818992f4a2b1aed2a1",
+        "mobilesdk_app_id": "1:867221957538:android:c43fbf95f60ceafee6e0fb",
+        "android_client_info": {
+          "package_name": "com.pver.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHieLjUy_CXgFIj8hmSTxkjiDWlkXx_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867221957538:android:af7c2a30e1b10f82e6e0fb",
         "android_client_info": {
           "package_name": "com.pver.firestoresample"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyANM1ET5FKnN_01cEzqGY97PzF8ZYyrQMQ"
+          "current_key": "AIzaSyAHieLjUy_CXgFIj8hmSTxkjiDWlkXx_w8"
         }
       ],
       "services": {
